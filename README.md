@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aakash8sonu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Aakash Bajpai
+- 👀 I’m interested in ... Game developement
+- 🌱 I’m currently learning ... C++
+- 💞️ I’m looking to collaborate on ... Unity
+- 📫 How to reach me ...phone-no:-+917571899966
 
 <!---
 Aakash8sonu/Aakash8sonu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
